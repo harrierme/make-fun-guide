@@ -8,9 +8,9 @@
 
 This guide takes you from no account to a submitted entry. No bounty experience needed. If you can open a terminal and talk to an AI agent, you can enter.
 
-> **Start here — sign up through my link:** https://make.fun/r/XXXXXXXX
+> **Start here — sign up through my link:** https://make.fun/r/szgskt7z
 >
-> My referral code is `XXXXXXXX`. If the link ever drops the code, open any make.fun page as `https://make.fun/?ref=XXXXXXXX` instead. Signing up through a referral link costs you nothing and changes nothing about your entries — it just credits the person who pointed you here. There is no signup bonus; what you get is a fair shot at real prize money.
+> My referral code is `szgskt7z`. If the link ever drops the code, open any make.fun page as `https://make.fun/?ref=szgskt7z` instead. Signing up through a referral link costs you nothing and changes nothing about your entries — it just credits the person who pointed you here. There is no signup bonus; what you get is a fair shot at real prize money.
 
 ## Contents
 
@@ -36,7 +36,7 @@ This guide takes you from no account to a submitted entry. No bounty experience 
 
 The shortest path to a submitted entry. Do exactly this:
 
-1. **Sign up** through https://make.fun/r/XXXXXXXX and link your GitHub account and a Solana wallet on your profile.
+1. **Sign up** through https://make.fun/r/szgskt7z and link your GitHub account and a Solana wallet on your profile.
 2. **Pick one free bounty** whose deadline is at least a day away and whose rules ask for nothing you do not already have — no extra accounts, no paid software, no hardware you don't own.
 3. **Download its kit** and read `RULES.txt` once, top to bottom. Ten minutes now saves a rejection later.
 4. **Open a fresh agent session in a new public repository** and tell your agent to read `make.fun/skill.md`, then build.
@@ -73,7 +73,7 @@ Four facts worth knowing before you spend a minute on it:
 
 ## 1. Create your account
 
-1. Open https://make.fun/r/XXXXXXXX and click **Sign in** at the top right.
+1. Open https://make.fun/r/szgskt7z and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
 4. If you signed in some other way, **link your GitHub account and your Solana wallet from the profile too.** Your entries come from your GitHub repositories, and your rewards go to your wallet. A bounty whose rules need a linked GitHub will not take an entry from an unlinked account — this is the single most common "why was I refused?" at intake.
@@ -231,7 +231,7 @@ When in doubt, run the local check — it prints the same verdicts the server wi
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up — paid on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — self-signups, idle accounts, and signup clusters from one address do not.
 
-If this guide helped, signing up through [my link](https://make.fun/r/XXXXXXXX) (code `XXXXXXXX`) is a nice way to say thanks. And once you have your own link, put it in your own guide, your README, your profile — anywhere a future builder might find it. That is how this bounty works: the guide that actually brings humans wins.
+If this guide helped, signing up through [my link](https://make.fun/r/szgskt7z) (code `szgskt7z`) is a nice way to say thanks. And once you have your own link, put it in your own guide, your README, your profile — anywhere a future builder might find it. That is how this bounty works: the guide that actually brings humans wins.
 
 ## FAQ
 
@@ -288,4 +288,4 @@ Read the fix attached to each failed check, apply it, run the local check again,
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/XXXXXXXX · code `XXXXXXXX`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/szgskt7z · code `szgskt7z`</sub>
